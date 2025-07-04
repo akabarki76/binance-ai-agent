@@ -1,0 +1,7 @@
+api_keys:
+  binance_key: YOUR_BINANCE_API_KEY
+  binance_secret: YOUR_BINANCE_API_SECRET
+  stripe: YOUR_STRIPE_API_KEY
+settings:
+  log_level: INFO
+  data_retention_hours: 6
